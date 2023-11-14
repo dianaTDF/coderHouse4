@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "pera",
+      "description": "Descipcion pendiente",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "AB01",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "title": "manzana2",
+      "description": "calabaza roja",
+      "price": 10,
+      "thumbnail": "iamge29",
+      "code": "AB04",
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "title": "uva",
+      "description": "uvas verdes",
+      "price": 50,
+      "thumbnail": "iamge2",
+      "code": "AB03",
+      "stock": 300
+    },
+    {
+      "id": 4,
+      "title": "calabaza",
+      "description": "calabaza anco",
+      "price": 50,
+      "thumbnail": "iamge2",
+      "code": "AB04",
+      "stock": 40
+    },
+    {
+        "id": 5,
+        "title": "wiki",
+        "description": "del tropico",
+        "price": 50,
+        "thumbnail": "iamge2",
+        "code": "AB05",
+        "stock": 40
+      },
+
+    {
+        "id": 6,
+        "title": "mandioca",
+        "description": "con descuento",
+        "price": 50,
+        "thumbnail": "iamge2",
+        "code": "AB06",
+        "stock": 40
+      },
+
+    {
+        "id": 7,
+        "title": "anana",
+        "description": "piña",
+        "price": 50,
+        "thumbnail": "iamge2",
+        "code": "AB07",
+        "stock": 40
+      }
+  ]
